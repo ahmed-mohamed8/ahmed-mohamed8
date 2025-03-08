@@ -25,7 +25,7 @@
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
-  <code><img title="C++" height="25" src="images/cpp.svg"></code>
+  <code><img title="C++" height="25" src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000"></code>
   <code><img title="Git" height="25" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000"></code>
   <code><img title="GitHub" height="25" src="https://img.icons8.com/?size=100&id=12599&format=png&color=000000"></code>
 </p>
