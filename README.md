@@ -6,7 +6,7 @@
 
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/ahmed-daabis-25392b354" title="LinkedIn Profile"><img width="22" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000"/></svg></a></code>
+  <code><a href="https://www.linkedin.com/in/ahmed-daabis-25392b354" title="LinkedIn Profile"><img width="22" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000"/></svg></a>LinkedIn</code>
 </h5>
 <br>
 <p align="center">
