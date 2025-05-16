@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!;This+is+Ahmed+Daabis....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!;This+is+Ahmed+Daabis;Nice+to+meet+you!&center=true&size=30">
 
 
 <h5 align="center">
@@ -34,7 +34,7 @@
 <hr>
 
 <hr>
-<h3 align="left">Random Dev Quote::</h3>
+<h3 align="left">Random Dev Quote:</h3>
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
 </p>
