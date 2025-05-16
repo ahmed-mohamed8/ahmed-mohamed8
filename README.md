@@ -18,9 +18,9 @@
   <br>
   🔬 I'm currently studying for my bachelor's degree at Alexandria University
   <br>
-  💬 Ask me about anything from <a href="https://github.com/ahmed-mohamed8/ahmed-mohamed8/issues" title="Issues">Here</a>
+  💬 Ask me about anything from <a href="https://github.com/ahmed-mohamed8/ahmed-mohamed8/issues" title="Issues">here</a>
   <br>
-  📫 How to reach me: <a href="mailto: ahmed.mohamed.eng090@gmail.com">ahmed.mohamed.eng090@gmail.com</a>
+  📫 How to reach me : <a href="mailto: ahmed.mohamed.eng090@gmail.com">ahmed.mohamed.eng090@gmail.com</a>
 </p>
 
 <hr>
